@@ -1,0 +1,6 @@
+pytorch==1.13.0
+music21==8.1.0
+tqdm==4.62.0
+matplotlib==3.4.2
+numpy==1.23.4
+ipywidgets==8.0.2
