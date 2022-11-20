@@ -18,3 +18,7 @@ The model implementation are under [musegan](musegan) folder. To train model it 
 
 ## Packages requirements
 - [requirements.txt](requirements.txt)
+
+## Dataset
+In that project the dataset of 229 chorales of Bach for four tracks is used.
+The dataset could be found [here](data/Jsb16thSeparated.npz)
